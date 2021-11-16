@@ -1,0 +1,39 @@
+2021-10-25 23:38:50 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO USER_ROLES('daesoo@exam.com'[*],'USER')"; expected "identifier"; SQL statement:
+INSERT INTO USER_ROLES('daesoo@exam.com','USER') [42001-200]
+2021-10-25 23:39:07 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO USER_ROLES('1'[*],'USER')"; expected "identifier"; SQL statement:
+INSERT INTO USER_ROLES('1','USER') [42001-200]
+2021-10-25 23:39:23 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO USER_ROLES(1[*],'USER')"; expected "identifier"; SQL statement:
+INSERT INTO USER_ROLES(1,'USER') [42001-200]
+2021-10-25 23:39:26 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO USER_ROLES(1[*],'USER')"; expected "identifier"; SQL statement:
+INSERT INTO USER_ROLES(1,'USER') [42001-200]
+2021-10-25 23:39:39 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO USER_ROLES(1[*],'USER')"; expected "identifier"; SQL statement:
+INSERT INTO USER_ROLES(1,'USER') [42001-200]
+2021-10-25 23:39:53 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO USER_ROLES('daesoo@example.com'[*],'USER')"; expected "identifier"; SQL statement:
+INSERT INTO USER_ROLES('daesoo@example.com','USER') [42001-200]
+2021-10-25 23:39:56 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO USER_ROLES('daesoo@example.com'[*],'USER')"; expected "identifier"; SQL statement:
+INSERT INTO USER_ROLES('daesoo@example.com','USER') [42001-200]
+2021-10-25 23:39:56 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO USER_ROLES('daesoo@example.com'[*],'USER')"; expected "identifier"; SQL statement:
+INSERT INTO USER_ROLES('daesoo@example.com','USER') [42001-200]
+2021-10-25 23:39:57 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO USER_ROLES('daesoo@example.com'[*],'USER')"; expected "identifier"; SQL statement:
+INSERT INTO USER_ROLES('daesoo@example.com','USER') [42001-200]
+2021-10-25 23:39:57 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO USER_ROLES('daesoo@example.com'[*],'USER')"; expected "identifier"; SQL statement:
+INSERT INTO USER_ROLES('daesoo@example.com','USER') [42001-200]
+2021-10-25 23:39:57 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO USER_ROLES('daesoo@example.com'[*],'USER')"; expected "identifier"; SQL statement:
+INSERT INTO USER_ROLES('daesoo@example.com','USER') [42001-200]
+2021-10-25 23:39:58 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO USER_ROLES('daesoo@example.com'[*],'USER')"; expected "identifier"; SQL statement:
+INSERT INTO USER_ROLES('daesoo@example.com','USER') [42001-200]
+2021-10-25 23:40:21 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO USER_ROLES('daesoo@example.com'[*],'USER')"; expected "identifier"; SQL statement:
+INSERT INTO USER_ROLES('daesoo@example.com','USER') [42001-200]

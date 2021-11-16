@@ -1,0 +1,30 @@
+spring:
+  devtools:
+    restart:
+      enabled: true
+    remote:
+      restart:
+        enabled: true
+  datasource:
+    driver-class-name: org.h2.Driver
+    url: jdbc:h2:file:./restapi.db;AUTO_SERVER=TRUE
+    username: admin
+    password: tlseotn1@
+  h2:
+    console:
+      enabled: true
+      settings:
+        web-allow-others: true
+      path: /db
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    properties.hibernate.hbm2ddl.auto: update
+    showSql: true
+  messages:
+    basename: i18n/exception
+    encoding: UTF-8
+  jwt:
+    secret: tlseotn1@
+
+server:
+  port: 9095
